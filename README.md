@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add plot_images conf_thresh parameter (#8446)
